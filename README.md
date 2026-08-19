@@ -1,1 +1,1 @@
-hi this is made for school things idk ifyw u can use this idrc
+No block games here
