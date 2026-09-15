@@ -1,0 +1,8 @@
+body {
+    background-image: url('../sources/stone.png');
+}
+
+.version-button {
+    width: 15%;
+    height: 100%;
+}
